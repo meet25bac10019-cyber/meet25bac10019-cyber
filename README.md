@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Meet Chawla 
 
-<!--
-**meet25bac10019-cyber/meet25bac10019-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Student – Electronics and Communication (AI and Cybernetics) 
+VIT Bhopal University  
+Year: 1st Year  
 
-Here are some ideas to get you started:
+# About Me
+I am interested in learning new technologies and improving my skills in programming and digital tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Goals
+- Learn programming basics  
+- Build projects  
+- Improve problem-solving skills  
+- Create a strong digital portfolio  
+
+# Contact
+Email: meet.25bac10019@vitbhopal.ac.in
